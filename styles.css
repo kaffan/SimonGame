@@ -1,0 +1,50 @@
+body
+{
+  background-color: #351f39;
+
+}
+h1
+{
+  font-size: 4rem;
+  margin: auto;
+  text-align: center;
+  padding: 7% 0;
+  color: white;
+  font-family: 'Press Start 2P', cursive;
+}
+.container
+{
+  display: block;
+  width: 50%;
+}
+.row
+{
+  margin: auto;
+}
+.box1, .box2, .box3, .box4
+{
+  display: block;
+  height:220px;
+  width:220px;
+  border: solid black;
+  border-width: 7px;
+  border-radius: 20%;
+  margin: 3% auto;
+  box-shadow:  8px 8px  white;
+}
+.box1
+{
+  background-color: green;
+}
+.box2
+{
+  background-color: yellow;
+}
+.box3
+{
+  background-color: blue;
+}
+.box4
+{
+  background-color: red;
+}
